@@ -1,0 +1,8 @@
+# Ignore IntelliJ IDEA settings
+.idea/
+
+# Ignore compiled files
+target/
+
+# Ignore log files
+*.log
